@@ -60,7 +60,10 @@ body {
   background: var(--body-color);
 }
 .container {
-  width: 100%;
+  
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1 1 auto;
   position: relative;
 }
 
@@ -650,6 +653,7 @@ footer{
     width: 100%;
   }
 }
+
 
 
 
