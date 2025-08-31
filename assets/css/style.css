@@ -277,10 +277,12 @@ background: var(--color-white);
 }
 .row{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
   width: 100%;
   gap: 50px;
-  flex-direction: column;
+  flex-direction: row;
 }
 .col{
    display: flex;
@@ -648,5 +650,6 @@ footer{
     width: 100%;
   }
 }
+
 
 
