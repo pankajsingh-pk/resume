@@ -233,7 +233,7 @@ padding-inline: 10vw;
   height: 380px;
   border-radius: 55% 45% 55% 55% ;
   overflow: hidden;
- animation: imgFloat 7s ease-in-out infinite;
+ animation: imgFloat 4s ease-in-out infinite;
  background-color: rgb(165, 247, 247);
 }
 
@@ -650,6 +650,7 @@ footer{
     width: 100%;
   }
 }
+
 
 
 
