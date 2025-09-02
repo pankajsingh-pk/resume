@@ -653,7 +653,7 @@ footer{
   }
   .row{
    
-    display: flex;
+    display: grid;
     flex-direction:center;
     justify-content: center;
     gap: 50px;
@@ -662,11 +662,12 @@ footer{
   }
   .col{
     
-     display: flex;
+     display: grid;
      justify-content: center;
      
   }
 }
+
 
 
 
