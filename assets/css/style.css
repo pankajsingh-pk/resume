@@ -651,6 +651,21 @@ footer{
   .input-field{
     width: 100%;
   }
+  .row{
+   
+    display: grid;
+    flex-direction:center;
+    justify-content: center;
+    gap: 50px;
+   
+
+  }
+  .col{
+    
+     display: grid;
+     justify-content: center;
+     
+  }
 }
 
 
