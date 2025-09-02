@@ -664,9 +664,10 @@ footer{
     
      display: grid;
      justify-content: center;
-     width: 80%;
+     width: 100%;
   }
 }
+
 
 
 
